@@ -9,3 +9,8 @@ core
 express
 mysql
 postgres
+Gruntfile.js
+jsdoc_conf.json
+test
+doc-src
+.eslintrc.json
