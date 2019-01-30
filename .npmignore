@@ -12,5 +12,6 @@ postgres
 Gruntfile.js
 jsdoc_conf.json
 test
+test_async
 doc-src
 .eslintrc.json

@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "atomic-batcher": "^1.0.2",
-    "continuation-local-storage": "^3.2.0",
+    "cls-hooked": "^4.2.2",
     "lodash.assignin": "^4.2.0",
     "lodash.isboolean": "^3.0.3",
     "lodash.isempty": "^4.4.0",
@@ -42,7 +42,8 @@
     "sinon-chai": "^2.8.0"
   },
   "scripts": {
-    "test": "./node_modules/.bin/mocha --recursive ./test/ -R spec"
+    "test": "./node_modules/.bin/mocha --recursive ./test/ -R spec",
+    "test-async": "./node_modules/.bin/mocha --recursive ./test_async/ -R spec"
   },
   "keywords": [
     "amazon",
