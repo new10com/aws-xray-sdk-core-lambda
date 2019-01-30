@@ -1,10 +1,11 @@
 {
   "name": "@new10com/aws-xray-sdk-core-lambda",
   "version": "3.0.0",
-  "description": "AWS X-Ray SDK for Javascript",
+  "description": "Fork of The official AWS X-Ray SDK for Node.js targeting Lambdas (smaller package sizes).",
   "author": "Amazon Web Services",
   "contributors": [
-    "Sandra McMullen <mcmuls@amazon.com>"
+    "Sandra McMullen <mcmuls@amazon.com>",
+    "Ricardo Torres <ricardo.torres@new10.com>"
   ],
   "main": "lib/index.js",
   "engines": {
@@ -54,5 +55,5 @@
     "x ray"
   ],
   "license": "Apache-2.0",
-  "repository": "https://github.com/aws/aws-xray-sdk-node/tree/master/packages/core"
+  "repository": "https://github.com/new10com/aws-xray-sdk-core-lambda"
 }
