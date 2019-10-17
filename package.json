@@ -1,6 +1,6 @@
 {
   "name": "@new10com/aws-xray-sdk-core-lambda",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Fork of The official AWS X-Ray SDK for Node.js targeting Lambdas (smaller package sizes).",
   "author": "Amazon Web Services",
   "contributors": [
