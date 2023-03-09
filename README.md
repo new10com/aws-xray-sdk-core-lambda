@@ -1,3 +1,7 @@
+# Deprecation notice
+
+This project (fork) is deprecated.
+
 
 ## Requirements
 
